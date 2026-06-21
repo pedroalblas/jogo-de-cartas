@@ -1,14 +1,7 @@
 import random
 lista = [9, 8, 7, 6, 5, 4, 3, 2, 1]
 cartas = {"c1": None, "c2": None, "c3": None, "c4": None, "c5": None}
-valormao = {
-    "nada": 0,
-    "um par": 1,
-    "dois par": 2,
-    "trinca": 3,
-    "full house": 4,
-    "quadra": 5,
-    "quina": 6,
+valormao = {"nada": 0, "um par": 1, "dois par": 2, "trinca": 3, "full house": 4, "quadra": 5, "quina": 6,
 }
 ########################
 # defs
